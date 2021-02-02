@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <font id="remote-icon" horiz-adv-x="24">
+    <font-face font-family="remote-icon"
+      units-per-em="24" ascent="24"
+      descent="0" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="arrow-down"
+      unicode="&#xF101;"
+      horiz-adv-x="24" d=" M8 14L12 10L16 14" />
+    <glyph glyph-name="arrow-left"
+      unicode="&#xF102;"
+      horiz-adv-x="24" d=" M14 16L10 12L14 8" />
+    <glyph glyph-name="arrow-right"
+      unicode="&#xF103;"
+      horiz-adv-x="24" d=" M10 8L14 12L10 16" />
+    <glyph glyph-name="arrow-up"
+      unicode="&#xF104;"
+      horiz-adv-x="24" d=" M16 10L12 14L8 10" />
+    <glyph glyph-name="close"
+      unicode="&#xF105;"
+      horiz-adv-x="24" d=" M6 18L18 6 M18 18L6 6" />
+    <glyph glyph-name="menu"
+      unicode="&#xF106;"
+      horiz-adv-x="24" d=" M3 12H21 M3 18H21 M3 6H21" />
+    <glyph glyph-name="search"
+      unicode="&#xF107;"
+      horiz-adv-x="24" d=" M15.7138 17.1618C18.1647 14.71087 18.1647 10.7371 15.7138 8.2862C13.2629 5.8353 9.28913 5.8353 6.8382 8.2862C4.38727 10.7371 4.38727 14.71087 6.8382 17.1618C9.28913 19.61273 13.2629 19.61273 15.7138 17.1618 M19 5L15.71 8.29" />
+  </font>
+</defs>
+</svg>

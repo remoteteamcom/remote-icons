@@ -2,7 +2,7 @@
   "name": "remote-icons",
   "version": "0.1.0",
   "description": "Remote Icon Package",
-  "main": "index.js",
+  "main": "dist/remote-icon.css",
   "repository": "git@github.com:remoteteamcom/remote-icons.git",
   "author": "Mehmet Köse <mehmetkosedev@gmail.com>",
   "license": "MIT",

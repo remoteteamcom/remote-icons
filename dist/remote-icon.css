@@ -1,0 +1,39 @@
+@font-face {
+	font-family: "remote-icon";
+	src: url("remote-icon.eot?707aa5e3ff6a487b54fede7010586ce5?#iefix") format("embedded-opentype"),
+url("remote-icon.woff2?707aa5e3ff6a487b54fede7010586ce5") format("woff2"),
+url("remote-icon.woff?707aa5e3ff6a487b54fede7010586ce5") format("woff");
+}
+
+.remote-icon {
+	line-height: 1;
+}
+
+.remote-icon:before {
+	font-family: remote-icon !important;
+	font-style: normal;
+	font-weight: normal !important;
+	vertical-align: top;
+}
+
+.remote-iconarrow-down:before {
+	content: "\f101";
+}
+.remote-iconarrow-left:before {
+	content: "\f102";
+}
+.remote-iconarrow-right:before {
+	content: "\f103";
+}
+.remote-iconarrow-up:before {
+	content: "\f104";
+}
+.remote-iconclose:before {
+	content: "\f105";
+}
+.remote-iconmenu:before {
+	content: "\f106";
+}
+.remote-iconsearch:before {
+	content: "\f107";
+}
