@@ -1,0 +1,15 @@
+{
+  "name": "remote-icons",
+  "version": "0.1.0",
+  "description": "Remote Icon Package",
+  "main": "index.js",
+  "repository": "git@github.com:remoteteamcom/remote-icons.git",
+  "author": "Mehmet Köse <mehmetkosedev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "dependencies": {
+    "webfonts-generator": "^0.4.0"
+  }
+}
