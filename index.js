@@ -2,7 +2,7 @@ const path = require("path");
 const fs = require("fs");
 const webfontsGenerator = require("webfonts-generator");
 
-const directoryPath = path.join(__dirname, "icons");
+const directoryPath = path.join(__dirname, "svgs");
 
 let svgFiles = [];
 
@@ -19,7 +19,7 @@ webfontsGenerator(
     dest: "dist/",
     fontName: "remote-icon",
     templateOptions: {
-      classPrefix: "remote-icon",
+      classPrefix: "remote-icon-",
       baseSelector: ".remote-icon",
     },
   },

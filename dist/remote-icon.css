@@ -1,8 +1,8 @@
 @font-face {
 	font-family: "remote-icon";
-	src: url("remote-icon.eot?707aa5e3ff6a487b54fede7010586ce5?#iefix") format("embedded-opentype"),
-url("remote-icon.woff2?707aa5e3ff6a487b54fede7010586ce5") format("woff2"),
-url("remote-icon.woff?707aa5e3ff6a487b54fede7010586ce5") format("woff");
+	src: url("remote-icon.eot?221e8762a5f9ef8014fb2ea72fbd1b6b?#iefix") format("embedded-opentype"),
+url("remote-icon.woff2?221e8762a5f9ef8014fb2ea72fbd1b6b") format("woff2"),
+url("remote-icon.woff?221e8762a5f9ef8014fb2ea72fbd1b6b") format("woff");
 }
 
 .remote-icon {
@@ -16,24 +16,24 @@ url("remote-icon.woff?707aa5e3ff6a487b54fede7010586ce5") format("woff");
 	vertical-align: top;
 }
 
-.remote-iconarrow-down:before {
+.remote-icon-arrow-down:before {
 	content: "\f101";
 }
-.remote-iconarrow-left:before {
+.remote-icon-arrow-left:before {
 	content: "\f102";
 }
-.remote-iconarrow-right:before {
+.remote-icon-arrow-right:before {
 	content: "\f103";
 }
-.remote-iconarrow-up:before {
+.remote-icon-arrow-up:before {
 	content: "\f104";
 }
-.remote-iconclose:before {
+.remote-icon-close:before {
 	content: "\f105";
 }
-.remote-iconmenu:before {
+.remote-icon-menu:before {
 	content: "\f106";
 }
-.remote-iconsearch:before {
+.remote-icon-search:before {
 	content: "\f107";
 }
