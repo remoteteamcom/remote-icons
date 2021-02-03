@@ -1,11 +1,18 @@
 {
   "name": "remote-icons",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Remote Icon Package",
   "main": "dist/remote-icon.css",
   "repository": "git@github.com:remoteteamcom/remote-icons.git",
   "author": "Mehmet Köse <mehmetkosedev@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "remote",
+    "icons",
+    "free",
+    "icon",
+    "library"
+  ],
   "scripts": {
     "build": "node index.js"
   },

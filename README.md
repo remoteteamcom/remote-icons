@@ -28,3 +28,11 @@ $ yarn add remote-icons
 <span class="remote-icon remote-icon-arrow-down">
 </span>
 ```
+
+# Credits
+
+[RemoteTeam](https://www.remoteteam.com)
+
+# Other Projects
+
+[Micro.css](https://www.npmjs.com/package/@remoteteam_dev/micro.css)
