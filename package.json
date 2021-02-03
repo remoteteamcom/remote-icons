@@ -1,6 +1,6 @@
 {
   "name": "remote-icons",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Remote Icon Package",
   "main": "dist/remote-icon.css",
   "repository": "git@github.com:remoteteamcom/remote-icons.git",
