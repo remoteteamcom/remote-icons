@@ -21,3 +21,10 @@ $ npm install remote-icons
 ```sh
 $ yarn add remote-icons
 ```
+
+# Usage
+
+```html
+<span class="remote-icon remote-icon-arrow-down">
+</span>
+```
