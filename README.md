@@ -29,6 +29,23 @@ $ yarn add remote-icons
 </span>
 ```
 
+# Contribude
+
+* Install dependencies
+
+```
+yarn
+```
+
+* Change icons in *svgs* folder
+
+* Run npm script
+
+```
+yarn build
+```
+
+
 # Credits
 
 [RemoteTeam](https://www.remoteteam.com)

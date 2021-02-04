@@ -1,8 +1,8 @@
 @font-face {
 	font-family: "remote-icon";
-	src: url("remote-icon.eot?221e8762a5f9ef8014fb2ea72fbd1b6b?#iefix") format("embedded-opentype"),
-url("remote-icon.woff2?221e8762a5f9ef8014fb2ea72fbd1b6b") format("woff2"),
-url("remote-icon.woff?221e8762a5f9ef8014fb2ea72fbd1b6b") format("woff");
+	src: url("remote-icon.eot?eea44ae3a54a5898ae22bb9edf0705a8?#iefix") format("embedded-opentype"),
+url("remote-icon.woff2?eea44ae3a54a5898ae22bb9edf0705a8") format("woff2"),
+url("remote-icon.woff?eea44ae3a54a5898ae22bb9edf0705a8") format("woff");
 }
 
 .remote-icon {
