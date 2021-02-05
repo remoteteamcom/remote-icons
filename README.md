@@ -1,4 +1,4 @@
-# remote-icons [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mehmetkose/react-websocket/edit/master/README.md) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmehmetkose%2Freact-websocket.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmehmetkose%2Freact-websocket?ref=badge_shield)
+# remote-icons [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/remoteteamcom/remote-icons/edit/master/README.md) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fremoteteamcom%2Fremote-icons.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fremoteteamcom%2Fremote-icons?ref=badge_shield)
 
 Remote Icon Package
 
@@ -55,4 +55,4 @@ yarn build
 [Micro.css](https://www.npmjs.com/package/@remoteteam_dev/micro.css)
 
 ## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmehmetkose%2Freact-websocket.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmehmetkose%2Freact-websocket?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fremoteteamcom%2Fremote-icons.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fremoteteamcom%2Fremote-icons?ref=badge_large)
