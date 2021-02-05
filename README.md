@@ -1,5 +1,4 @@
-# remote-icons [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/remoteteamcom/remote-icons/edit/master/README.md) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fremoteteamcom%2Fremote-icons.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fremoteteamcom%2Fremote-icons?ref=badge_shield)
-
+# remote-icons [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/remoteteamcom/remote-icons/edit/master/README.md) 
 Remote Icon Package
 
 ![remote icon package](https://og-image.remoteteam.vercel.app/Remote%20Icons?theme=dark)
@@ -54,5 +53,3 @@ yarn build
 
 [Micro.css](https://www.npmjs.com/package/@remoteteam_dev/micro.css)
 
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fremoteteamcom%2Fremote-icons.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fremoteteamcom%2Fremote-icons?ref=badge_large)
