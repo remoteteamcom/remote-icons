@@ -1,6 +1,6 @@
 {
   "name": "remote-icons",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Remote Icon Package",
   "main": "dist/remote-icon.min.css",
   "repository": "git@github.com:remoteteamcom/remote-icons.git",
@@ -17,15 +17,14 @@
     "generate": "node index.js",
     "build": "npm run generate && gulp default"
   },
-  "dependencies": {
-    "webfonts-generator": "^0.4.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-clean-css": "^4.3.0",
     "gulp-inline-fonts": "^1.2.1",
     "gulp-rename": "^2.0.0",
-    "gulp-sourcemaps": "^3.0.0"
+    "gulp-sourcemaps": "^3.0.0",
+    "webfonts-generator": "^0.4.0"
   }
 }
