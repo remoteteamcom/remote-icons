@@ -1,5 +1,4 @@
-# remote-icons
-
+# remote-icons [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/remoteteamcom/remote-icons/edit/master/README.md) 
 Remote Icon Package
 
 ![remote icon package](https://og-image.remoteteam.vercel.app/Remote%20Icons?theme=dark)
@@ -53,3 +52,4 @@ yarn build
 # Other Projects
 
 [Micro.css](https://www.npmjs.com/package/@remoteteam_dev/micro.css)
+
